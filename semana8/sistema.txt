@@ -1,0 +1,41 @@
+- uname -a
+
+Linux codespaces-477f6b 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 
+UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Este comando imprime en la terminal toda la información del sistema operativo y 
+del hardware disponible. La bandera -a (de all) combina múltiples datos en una sola línea. 
+Al ejecutarlo, muestra:
+
+El nombre del núcleo (Kernel), que generalmente es Linux.
+
+El nombre de host de la red (hostname).
+
+La versión y el número de lanzamiento del kernel (crucial para saber qué parches de seguridad tiene).
+
+La fecha y hora en que se compiló ese kernel.
+
+La arquitectura de la máquina (por ejemplo, x86_64 para 64 bits o aarch64 para ARM).
+
+
+- whoami
+
+codespace
+
+Este comando es muy directo: muestra el nombre de usuario con el que se está 
+operando actualmente en la sesión de la terminal.
+
+Es especialmente útil cuando se alterna entre usuarios comunes y el usuario 
+administrador (root) mediante comandos como su o sudo, ya que permite verificar 
+instantáneamente qué privilegios se tienen antes de ejecutar una acción delicada.
+
+
+- ¿Por qué es útil conocer la información del sistema al administrar un servidor?
+
+Conocer la información del sistema es una necesidad operativa fundamental en la 
+administración de servidores, ya que permite gestionar la seguridad mediante la 
+identificación de vulnerabilidades en el kernel y garantizar la compatibilidad de 
+la arquitectura antes de instalar nuevo software o entornos de ejecución. Asimismo, 
+verificar la identidad y los privilegios del usuario activo previene ejecuciones 
+erróneas o excesos de permisos, mientras que el acceso a los registros técnicos 
+resulta indispensable para el diagnóstico rápido y la resolución de fallos operativos.

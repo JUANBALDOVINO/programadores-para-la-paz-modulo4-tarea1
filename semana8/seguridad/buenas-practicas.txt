@@ -1,0 +1,5 @@
+1. Implementar la autenticación de doble factor (2FA)
+
+2. Realizar copias de seguridad (backups) periódicas
+
+3. Evitar conexiones a redes Wi-Fi públicas no seguras

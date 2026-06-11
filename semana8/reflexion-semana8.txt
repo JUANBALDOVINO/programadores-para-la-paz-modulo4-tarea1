@@ -1,0 +1,11 @@
+La seguridad digital en plataformas comunitarias y participativas es 
+fundamental para garantizar la confianza de los usuarios, ya que la percepción 
+de vulnerabilidad inhibe la colaboración ciudadana. Al resguardar la infraestructura técnica, 
+se previenen ciberataques que podrían alterar votaciones, manipular consensos o suplantar 
+identidades, asegurando la legitimidad de los procesos democráticos. Asimismo, 
+la protección de los datos recopilados evita la exposición de información sensible 
+de los participantes, manteniéndolos a salvo de posibles represalias, 
+acoso o vigilancia injustificada. De esta manera, implementar medidas 
+robustas de seguridad no solo defiende el sistema contra sabotajes operativos, 
+sino que preserva el ejercicio seguro de los derechos colectivos y la libertad 
+de expresión en los entornos digitales.

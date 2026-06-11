@@ -1,0 +1,9 @@
+1. Habilitar la verificación en dos pasos (2FA).
+
+2. Realizar copias de seguridad de forma periódica.
+
+3. Moderar y revisar el contenido que publican los usuarios.
+
+4. Actualizar la plataforma y sus complementos constantemente.
+
+5. Bloquear cuentas tras varios intentos fallidos de ingreso.
